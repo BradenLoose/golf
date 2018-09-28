@@ -1,0 +1,51 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ff0000;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 5px 92px;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+li a:hover {
+    background-color: #C50000;
+}
+
+li {
+    display: inline;
+}
+
+h1 {
+  color: white;
+text-align: center;
+font-size: 50px;
+background-color: #ff0000;
+overflow: hidden;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+
+}
+
+body {
+  background-image: url("../images/back2.jfif");
+  background-repeat: no-repeat;
+height: 100%;
+background-position: center;
+background-size: cover;
+}
