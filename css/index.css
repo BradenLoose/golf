@@ -33,6 +33,13 @@ overflow: hidden;
 #images1 {
   height: 100px;
   width: 100px;
+  align: left;
+}
+
+#images2 {
+  height: 100px;
+  width: 100px;
+  align: right;
 }
 
 body {
